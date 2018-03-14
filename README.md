@@ -12,6 +12,7 @@ Uma fresora é uma maquina CNC semelhante à impressora 3D. Algumas diferenças 
 Para fazer esse arrancamento de material, é utilizado uma ferramenta chamada Fresa em alta rotação. Existem diversos videos no YouTube que exemplificam esse processo, um deles:
 
 * [Fresa](https://www.youtube.com/watch?v=3SUQKGu7F5w)
+* [Fresa2](https://www.youtube.com/watch?v=txCMvRF4Bm8)
 
 Esse projeto é basicamente dividido em 3 grandes partes:
 
