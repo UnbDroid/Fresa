@@ -13,6 +13,7 @@ Para fazer esse arrancamento de material, é utilizado uma ferramenta chamada Fr
 
 * [Fresa](https://www.youtube.com/watch?v=3SUQKGu7F5w)
 * [Fresa2](https://www.youtube.com/watch?v=txCMvRF4Bm8)
+* [Fresa3](https://www.youtube.com/watch?v=yl1v7kOlZ28)
 
 Esse projeto é basicamente dividido em 3 grandes partes:
 
